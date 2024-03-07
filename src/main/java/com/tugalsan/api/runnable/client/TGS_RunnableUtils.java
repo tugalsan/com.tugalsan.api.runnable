@@ -1,12 +1,6 @@
 package com.tugalsan.api.runnable.client;
 
-import com.tugalsan.api.callable.client.TGS_Callable;
-import com.tugalsan.api.callable.client.TGS_CallableType1;
-import com.tugalsan.api.callable.client.TGS_CallableType2;
-import com.tugalsan.api.callable.client.TGS_CallableType3;
-import com.tugalsan.api.callable.client.TGS_CallableType4;
-import com.tugalsan.api.callable.client.TGS_CallableType5;
-import com.tugalsan.api.callable.client.TGS_CallableUtils;
+import com.tugalsan.api.callable.client.*;
 
 public class TGS_RunnableUtils {
 
