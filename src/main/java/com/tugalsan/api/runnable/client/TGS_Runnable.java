@@ -1,7 +1,6 @@
 package com.tugalsan.api.runnable.client;
 
-public interface TGS_Runnable {
+public interface TGS_Runnable extends Runnable {
 
     public void run();
 }
- 
