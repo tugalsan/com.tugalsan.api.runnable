@@ -2,6 +2,11 @@ package com.tugalsan.api.runnable.client;
 
 public class TGS_RunnableUtils {
 
+    public static TGS_Runnable doNothing0() {
+        return () -> {
+        };
+    }
+
     public static TGS_RunnableType1 doNothing1() {
         return w1 -> {
         };
